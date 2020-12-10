@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![prezine](https://github.com/prezine/prezine/raw/master/logo.png)
+![prezine](https://raw.githubusercontent.com/prezine/prezine/main/logo.png)
 
 
 I'm Precious Tom, a Software Engineering with great interest in intuitive user-centered design, speed, security, and big data. A fullstack Software engineer with special focus on back-end development using PHP — has built game-changing solutions for corporate organizations that are robust, secure and scalable. He is also ardour about solving problems and keenly interested in improving security, speed, and usability of a product. He is an advocate for Opensource.
