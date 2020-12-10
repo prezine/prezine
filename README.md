@@ -28,7 +28,7 @@ I'm Precious Tom, a Software Engineering with great interest in intuitive user-c
 - Twitter: [My handle](https://twitter.com/PAniefiok)
 - Instagram: [My profile](https://www.instagram.com/life.of.a.nerd/)
 - LinkedIn: [My profile](https://www.linkedin.com/in/precioustom/)
-- Email: tom at circlepanda.com
+- Email: [tom@circlepanda.io](mailto:tom@circlepanda.io)
 
 #### 🔭 I’m currently working on 
 - [Circlepanda.io](https://circlepanda.io) Circlepanda Limited official website
