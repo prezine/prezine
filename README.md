@@ -7,10 +7,10 @@ I'm Precious Tom, a Software Engineering with great interest in intuitive user-c
 
 ---
 #### 🌍 Skills and Interests:
-- Programming Language(s): PHP, SQL, Python, C++(Beginner)
+- Programming Language(s): JavaScript, PHP, SQL, Python, C++(Beginner)
 - OS: MacOS, Linux
 - Web: Flask, PHP, NodeJS
-- Cloud: Google Cloud, AWS
+- Cloud: Google Cloud, AWS, IBM
 - Project Management: Jira, Trello
 - Others: Agile
 - Language(s): English, Efik
@@ -30,7 +30,8 @@ I'm Precious Tom, a Software Engineering with great interest in intuitive user-c
 - Email: tom at circlepanda.com
 
 #### 🔭 I’m currently working on 
-- [Pandascrow](https://pandascrow.io) A Fintech Product, leveraging on Escrow Technology
+- [Circlepanda.io](https://circlepanda.io) Circlepanda Limited official website
+- [Pandascrow.io](https://pandascrow.io) A Fintech Product, leveraging on Escrow Technology
 - [Farmsby Invest](https://app.farmsby.com) An AgroFintech Platform, that gives ROI on Investment
 
 #### 🌱 I’m currently learning 
