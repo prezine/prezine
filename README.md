@@ -24,9 +24,10 @@ I'm Precious Tom, a Software Engineering with great interest in intuitive user-c
 ---
 
 #### 📫 Online presence/contacts:
-- Blog: [My blog](https://yomaokobiah.com)
+- Blog: [My blog](https://medium.com/@precioustom)
 - Twitter: [My handle](https://twitter.com/PAniefiok)
-- LinkedIn: [My profile](https://www.linkedin.com/in/ogheneyoma-okobiah/)
+- Instagram: [My profile](https://www.instagram.com/life.of.a.nerd/)
+- LinkedIn: [My profile](https://www.linkedin.com/in/precioustom/)
 - Email: tom at circlepanda.com
 
 #### 🔭 I’m currently working on 
