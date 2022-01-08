@@ -10,17 +10,16 @@ I'm Precious Tom, a Software Engineering with great interest in intuitive user-c
 - Programming Language(s): JavaScript, PHP, SQL, Python, C++(Beginner)
 - OS: MacOS, Linux
 - Web: Flask, PHP, NodeJS
-- Cloud: Google Cloud, AWS, IBM
+- Cloud: Google Cloud, AWS, IBM, Heroku
 - Project Management: Jira, Trello
 - Others: Agile
-- Language(s): English, Efik
+- Language(s): English, Efik, Pidgin
 - Interests: Data Science, Artificial Intelligence, Robotics
-- Certifications: Comptia A+, Comptia N+
+- Certifications: Comptia A+, Comptia N+, Web Design, 
 
 ---
 #### 🚀 Activities:
 - CEO at [Circlepanda Limited](https://circlepanda.io)
-- CTO at Farmsby Limited [Farmsby Limited (FB)](https://farmsby.com)
 ---
 
 #### 📫 Online presence/contacts:
@@ -33,18 +32,21 @@ I'm Precious Tom, a Software Engineering with great interest in intuitive user-c
 #### 🔭 I’m currently working on 
 - [Circlepanda.io](https://circlepanda.io) Circlepanda Limited official website
 - [Pandascrow.io](https://pandascrow.io) A Fintech Product, leveraging on Escrow Technology
-- [Farmsby Invest](https://app.farmsby.com) An AgroFintech Platform, that gives ROI on Investment
+- [Pandascrow.store](https://pandascrow.store) An eCommerce Product, that helps Vendors Sell more online
+- [Pandapay](#) A B2B Payment Processor, that Facilitate Payment, built for Businesses, Easily integratable, and Flexible.
 
 #### 🌱 I’m currently learning 
 - Graphics with Figma (Illustration)
-- Advance UI & UX with Skillshare
+- Flutter & Dart (Mobile)
+- Crypto & NFT (Blockchain)
+- Advance UI & UX on Youtube
 
 #### 👯 I’m looking to collaborate on 
 - Fun Projects
 - Projects related to inclusion for with people with special needs and/or the enviroment
 
 #### 🤔 I’m looking for help with volunteers on 
-- some open source ideas, yet to be developed
+- some crypto ideas, yet to be developed
 
 #### 💬 Ask me about 
 - Absolutely anything
@@ -52,3 +54,4 @@ I'm Precious Tom, a Software Engineering with great interest in intuitive user-c
 #### ⚡ Fun fact:
 - I know a bit of American Sign Language
 - I love nature, and night skies
+- I love good food, and travels
