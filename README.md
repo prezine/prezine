@@ -9,17 +9,17 @@ I'm Precious Tom, a Software Engineering with great interest in intuitive user-c
 #### 🌍 Skills and Interests:
 - Programming Language(s): JavaScript, PHP, SQL, Python, C++(Beginner)
 - OS: MacOS, Linux
-- Web: Flask, PHP, NodeJS
-- Cloud: Google Cloud, AWS, IBM, Heroku
-- Project Management: Jira, Trello
+- Web: Flask, PHP, NodeJS, ReactJS
+- Cloud: Google Cloud, AWS, IBM, Heroku, Netlify
+- Project Management: Jira, Trello, Clickup
 - Others: Agile
 - Language(s): English, Efik, Pidgin
-- Interests: Data Science, Artificial Intelligence, Robotics
-- Certifications: Comptia A+, Comptia N+, Web Design, 
+- Interests: Data Science, Artificial Intelligence, Robotics, Quantum Computing
+- Certifications: Comptia A+, Comptia N+, Web Design
 
 ---
 #### 🚀 Activities:
-- CEO at [Circlepanda Limited](https://circlepanda.io)
+- CEO at [Pandascrow, Inc](https://pandascrow.io/)
 ---
 
 #### 📫 Online presence/contacts:
@@ -27,18 +27,17 @@ I'm Precious Tom, a Software Engineering with great interest in intuitive user-c
 - Twitter: [My handle](https://twitter.com/PAniefiok)
 - Instagram: [My profile](https://www.instagram.com/life.of.a.nerd/)
 - LinkedIn: [My profile](https://www.linkedin.com/in/precioustom/)
-- Email: [tom@circlepanda.io](mailto:tom@circlepanda.io)
+- Email: [tom@pandascrow.io](mailto:tom@pandascrow.io)
 
 #### 🔭 I’m currently working on 
-- [Circlepanda.io](https://circlepanda.io) Circlepanda Limited official website
-- [Pandascrow.io](https://pandascrow.io) A Fintech Product, leveraging on Escrow Technology
-- [Pandascrow.store](https://pandascrow.store) An eCommerce Product, that helps Vendors Sell more online
-- [Pandapay](#) A B2B Payment Processor, that Facilitate Payment, built for Businesses, Easily integratable, and Flexible.
+- [Pandascrow.io](https://pandascrow.io) The Future of Payment with Pandascrow, Protecting Africans, one transaction at a time.
+- [Pandabase](#) A 360 Real Estate Project, that enables Listings, Acquisition, Investment and Rentals for Africans.
 
 #### 🌱 I’m currently learning 
 - Graphics with Figma (Illustration)
 - Flutter & Dart (Mobile)
 - Crypto & NFT (Blockchain)
+- A.I (ChatGPT)
 - Advance UI & UX on Youtube
 
 #### 👯 I’m looking to collaborate on 
@@ -46,7 +45,7 @@ I'm Precious Tom, a Software Engineering with great interest in intuitive user-c
 - Projects related to inclusion for with people with special needs and/or the enviroment
 
 #### 🤔 I’m looking for help with volunteers on 
-- some crypto ideas, yet to be developed
+- some gaming ideas, yet to be developed
 
 #### 💬 Ask me about 
 - Absolutely anything
