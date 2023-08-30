@@ -10,7 +10,7 @@ I'm Precious Tom, a Software Engineering with great interest in intuitive user-c
 - Programming Language(s): JavaScript, PHP, SQL, Python, C++(Beginner)
 - OS: MacOS, Linux
 - Web: Flask, PHP, NodeJS, ReactJS
-- Cloud: Google Cloud, AWS, IBM, Heroku, Netlify
+- Cloud: Google Cloud, AWS, Digital Ocean, Heroku, Vercel
 - Project Management: Jira, Trello, Clickup
 - Others: Agile
 - Language(s): English, Efik, Pidgin
@@ -32,6 +32,8 @@ I'm Precious Tom, a Software Engineering with great interest in intuitive user-c
 #### 🔭 I’m currently working on 
 - [Pandascrow.io](https://pandascrow.io) The Future of Payment with Pandascrow, Protecting Africans, one transaction at a time.
 - [Pandabase](#) A 360 Real Estate Project, that enables Listings, Acquisition, Investment and Rentals for Africans.
+- [DuckBook](https://tryduckbook.com/) Determined to helped over 1B African entrepreneurs and business owners take control of their finances from day one.
+- [NueraFinance](#) An A.I Powered Fintech Solution = Strip + ChatGPT + Siri
 
 #### 🌱 I’m currently learning 
 - Graphics with Figma (Illustration)
@@ -54,3 +56,4 @@ I'm Precious Tom, a Software Engineering with great interest in intuitive user-c
 - I know a bit of American Sign Language
 - I love nature, and night skies
 - I love good food, and travels
+- I love chess
