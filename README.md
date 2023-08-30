@@ -32,7 +32,7 @@ I'm Precious Tom, a Software Engineering with great interest in intuitive user-c
 #### 🔭 I’m currently working on 
 - [Pandascrow.io](https://pandascrow.io) The Future of Payment with Pandascrow, Protecting Africans, one transaction at a time.
 - [Pandabase](#) A 360 Real Estate Project, that enables Listings, Acquisition, Investment and Rentals for Africans.
-- [DuckBook](https://tryduckbook.com/) Determined to helped over 1B African entrepreneurs and business owners take control of their finances from day one.
+- [DuckBook](https://tryduckbook.com/) Determined to helped over 1B African entrepreneurs & business owners take control of their finances.
 - [NueraFinance](#) An A.I Powered Fintech Solution = Strip + ChatGPT + Siri
 
 #### 🌱 I’m currently learning 
