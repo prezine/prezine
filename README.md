@@ -41,10 +41,11 @@ I'm also a strong advocate for **open-source**, **clean code**, and **user-first
 
 ### 🚧 Current Projects
 - **[Pandascrow.io](https://pandascrow.io)** — Secure Escrow Payments for Africa  
-- **[TryOctopus](https://tryoctopus.co/)** — Unified platform for Customer Support, CRM, and Business Comms  
-- **Juno** — An AI Salesman that syncs with your CRM, researches leads, speaks like a human on calls, closes deals, and updates your CRM records automatically  
+- **[DuckBook](https://tryduckbook.com/)** — Simple Business Finance Tool  
+- **[TryOctopus](https://tryoctopus.co/)** — A revolutionary Web3 platform designed to make crypto accessible, secure, and practical for everyday users  
+- **Juno** — An AI Salesman that connects to your CRM, researches leads, speaks naturally on calls, closes deals, and updates your CRM records automatically  
 - **Pandabase** — Real Estate Listings, Investment & Rentals Platform  
-- **PandaFinance** — AI-Powered Fintech (Stripe + ChatGPT + Siri)
+- **NueraFinance** — AI-Powered Fintech (Stripe + ChatGPT + Siri)
 
 ---
 
