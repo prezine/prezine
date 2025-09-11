@@ -4,7 +4,7 @@
 
 I'm **Precious Tom**, a passionate **Fullstack Software Engineer** and the founder of [Pandascrow](https://pandascrow.io) — a platform on a mission to protect Africans, one transaction at a time.
 
-I specialize in both **Frontend** and **Backend Development**, crafting seamless user experiences and building secure, scalable systems. From intuitive UI design to robust backend logic, I focus on delivering fast, beautiful, and functional products.
+I specialize in both **Frontend**, **Backend Development**, and **UI/UX Design** crafting seamless user experiences and building secure, scalable systems. From intuitive UI design to robust backend logic, I focus on delivering fast, beautiful, and functional products.
 
 I'm also a strong advocate for **open-source**, **clean code**, and **user-first design**.
 
@@ -20,8 +20,8 @@ I'm also a strong advocate for **open-source**, **clean code**, and **user-first
 
 ### 🛠️ Core Skills & Tools
 - **Languages**: PHP, JavaScript (ES6+), SQL, Python, C++ (beginner)
-- **Frontend**: React.js, Next.js, TailwindCSS, HTML5, SCSS, Framer Motion
-- **Backend**: Laravel, Node.js, REST APIs, Webhooks
+- **Frontend**: React.js, Next.js, VueJS, TailwindCSS, HTML5, SCSS, Framer Motion
+- **Backend**: Laravel, Node.js, Django, REST APIs, Webhooks
 - **Design**: Figma, Adobe XD (Learning Illustration)
 - **Cloud & DevOps**: GCP, AWS, DigitalOcean, Vercel, Heroku
 - **Dev Tools**: Git, VSCode, Postman, Docker
@@ -39,20 +39,20 @@ I'm also a strong advocate for **open-source**, **clean code**, and **user-first
 
 ---
 
-### 🚧 Current Projects
-- **[Pandascrow.io](https://pandascrow.io)** — Secure Escrow Payments for Africa  
+### 🚧 Ongoing and Live Projects
+- **[Pandascrow.io](https://pandascrow.io)** — Secure Escrow Payments for Africa 
 - **[TryOctopus](https://tryoctopus.co/)** — A revolutionary Web3 platform designed to make crypto accessible, secure, and practical for everyday users  
 - **DuckBook** — Simple Business Finance Tool
 - **Juno** — An AI Salesman that connects to your CRM, researches leads, speaks naturally on calls, closes deals, and updates your CRM records automatically  
-- **Pandabase** — Real Estate Listings, Investment & Rentals Platform  
+- **Pandabase** — Real Estate Listings, Investment & Rentals Platform 
 - **PandaFinance** — AI-Powered Fintech (Stripe + ChatGPT + Siri)
 
 ---
 
 ### 👯 Open to Collaborate On
 - Inclusion-focused tech for people with disabilities  
-- Fun and meaningful side-projects  
-- Open-source tools and dev utilities  
+- Fun and meaningful side-projects
+- Open-source tools and dev utilities
 
 ---
 
@@ -72,10 +72,12 @@ I'm also a strong advocate for **open-source**, **clean code**, and **user-first
 
 ### 💬 Ask Me About
 Anything related to:
-- Frontend architecture and design systems  
-- Backend logic, webhooks, and APIs  
+- Frontend architecture and design systems
+- Algorithms
+- Backend logic, webhooks, and APIs
 - Scaling startup infrastructure  
-- Product strategy and development in Africa  
+- Product strategy and development in Africa
+- Investments and Data Room
 
 ---
 
