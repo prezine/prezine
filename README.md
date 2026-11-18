@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://raw.githubusercontent.com/prezine/prezine/main/logo.png" alt="prezine" width="96" />
+  <img src="https://raw.githubusercontent.com/prezine/prezine/main/logo.png" alt="prezine" width="120" />
 </p>
 
 ### Hey, I'm Precious Tom 👋
@@ -29,13 +29,13 @@ Other projects:
 
 ### 🛠️ Stack
 
-| Area      | Tools                                            |
-| --------- | ------------------------------------------------ |
-| Languages | TypeScript, JavaScript, PHP, Python, SQL         |
-| Frontend  | React, Next.js, Vue, Tailwind CSS, Framer Motion |
-| Backend   | Node.js, Laravel, Django, REST APIs, webhooks    |
-| Infra     | GCP, AWS, DigitalOcean, Vercel, Docker, CI/CD    |
-| Design    | Figma                                            |
+| Area      | Tools                                               |
+| --------- | --------------------------------------------------- |
+| Languages | TypeScript, JavaScript, PHP, Python, SQL            |
+| Frontend  | React, Next.js, Vue, Tailwind CSS, Framer Motion    |
+| Backend   | Node.js, Laravel, Django, REST APIs, webhooks       |
+| Infra     | GCP, AWS, DigitalOcean, Vercel, PXXL, Docker, CI/CD |
+| Design    | Figma                                               |
 
 ---
 
