@@ -1,92 +1,68 @@
-### Hey there 👋
+<p align="left">
+  <img src="https://raw.githubusercontent.com/prezine/prezine/main/logo.png" alt="prezine" width="96" />
+</p>
 
-![prezine](https://raw.githubusercontent.com/prezine/prezine/main/logo.png)
+### Hey, I'm Precious Tom 👋
 
-I'm **Precious Tom**, a passionate **Fullstack Software Engineer** and the founder of [Pandascrow](https://pandascrow.io) — a platform on a mission to protect Africans, one transaction at a time.
+Founder & CEO of **[Pandascrow](https://pandascrow.io)**, an API-first escrow, digital wallet, and payout infrastructure platform for Africa's digital economy.
 
-I specialize in both **Frontend**, **Backend Development**, and **UI/UX Design** crafting seamless user experiences and building secure, scalable systems. From intuitive UI design to robust backend logic, I focus on delivering fast, beautiful, and functional products.
-
-I'm also a strong advocate for **open-source**, **clean code**, and **user-first design**.
-
----
-
-### 💼 Current Roles
-- 🚀 CEO & Founder at [Pandascrow](https://pandascrow.io)
-- 👨🏽‍💻 Fullstack Engineer — React | PHP | NodeJS
-- 🎨 Frontend Engineer — Figma → React + Tailwind
-- 💡 Product Strategist & UI/UX Enthusiast
+I'm an engineer who ended up running the company. I still write code, design product, and care a lot about the layer that makes online payments in Africa trustworthy: escrow, wallets, payouts, and the APIs that tie them together.
 
 ---
 
-### 🛠️ Core Skills & Tools
-- **Languages**: PHP, JavaScript (ES6+), SQL, Python, C++ (beginner)
-- **Frontend**: React.js, Next.js, VueJS, TailwindCSS, HTML5, SCSS, Framer Motion
-- **Backend**: Laravel, Node.js, Django, REST APIs, Webhooks
-- **Design**: Figma, Adobe XD (Learning Illustration)
-- **Cloud & DevOps**: GCP, AWS, DigitalOcean, Vercel, Heroku
-- **Dev Tools**: Git, VSCode, Postman, Docker
-- **Project Management**: Jira, Trello, ClickUp
-- **Methodologies**: Agile, CI/CD, TDD
+### 🚀 What I'm building
+
+**[Pandascrow](https://pandascrow.io)** helps businesses and platforms hold, move, and release money safely:
+
+- **Escrow API**: conditional payments that release only when both sides deliver
+- **Digital wallets**: balances, transfers, and ledgering for platforms and their users
+- **Payouts**: fast disbursements to bank accounts across Africa
+
+Other projects:
+
+- **[TryToom](https://trytoom.tech/)**: Hit record and talk. Toom zooms in where you click, glides your cursor, writes your captions and hides what’s private. It looks edited by hand. It wasn’t.
+- **[StudioMono](https://studiomono.tech/)**: Product design & web development studio for startups
+- **TryOctopus**: makes crypto usable for everyday people
+- **DuckBook**: simple finance tooling for small businesses
 
 ---
 
-### 🧠 Interests & Learning
-- 🤖 Artificial Intelligence (ChatGPT, LLMs)
-- 📱 Flutter & Dart
-- 🎨 Advanced UI/UX Practices
-- 🧬 Quantum Computing & Robotics
-- 🌐 Crypto, Blockchain & NFTs
+### 🛠️ Stack
+
+| Area      | Tools                                            |
+| --------- | ------------------------------------------------ |
+| Languages | TypeScript, JavaScript, PHP, Python, SQL         |
+| Frontend  | React, Next.js, Vue, Tailwind CSS, Framer Motion |
+| Backend   | Node.js, Laravel, Django, REST APIs, webhooks    |
+| Infra     | GCP, AWS, DigitalOcean, Vercel, Docker, CI/CD    |
+| Design    | Figma                                            |
 
 ---
 
-### 🚧 Ongoing and Live Projects
-- **[Pandascrow.io](https://pandascrow.io)** — Secure Escrow Payments for Africa 
-- **[TryOctopus](https://tryoctopus.co/)** — A revolutionary Web3 platform designed to make crypto accessible, secure, and practical for everyday users  
-- **DuckBook** — Simple Business Finance Tool
-- **Juno** — An AI Salesman that connects to your CRM, researches leads, speaks naturally on calls, closes deals, and updates your CRM records automatically  
-- **Pandabase** — Real Estate Listings, Investment & Rentals Platform 
-- **PandaFinance** — AI-Powered Fintech (Stripe + ChatGPT + Siri)
+### 💬 Ask me about
 
----
+- Payments, escrow, and fintech infrastructure in Africa
+- API design, webhooks, and building systems that handle money
+- Taking a product from Figma to production
+- Scaling a startup with a small team
 
-### 👯 Open to Collaborate On
-- Inclusion-focused tech for people with disabilities  
-- Fun and meaningful side-projects
+### 👯 Open to
+
+- Fintech and payments partnerships
+- Accessibility-focused tech for people with disabilities
 - Open-source tools and dev utilities
 
 ---
 
-### 🧪 Looking for Volunteers For:
-- Conceptualizing and developing unique game ideas 🎮
+### 📫 Find me
+
+[![Website](https://img.shields.io/badge/pandascrow.io-111?style=flat&logo=googlechrome&logoColor=white)](https://pandascrow.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/precioustom/)
+[![X](https://img.shields.io/badge/X-000?style=flat&logo=x&logoColor=white)](https://x.com/PAniefiok)
+[![Medium](https://img.shields.io/badge/Medium-000?style=flat&logo=medium&logoColor=white)](https://medium.com/@precioustom)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/life.of.a.nerd/)
+[![Email](https://img.shields.io/badge/tom@pandascrow.io-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tom@pandascrow.io)
 
 ---
 
-### 📫 Find Me Online
-- 📝 [Medium Blog](https://medium.com/@precioustom)
-- 🐦 [Twitter](https://twitter.com/PAniefiok)
-- 📸 [Instagram](https://www.instagram.com/life.of.a.nerd/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/precioustom/)
-- 📧 [tom@pandascrow.io](mailto:tom@pandascrow.io)
-
----
-
-### 💬 Ask Me About
-Anything related to:
-- Frontend architecture and design systems
-- Algorithms
-- Backend logic, webhooks, and APIs
-- Scaling startup infrastructure  
-- Product strategy and development in Africa
-- Investments and Data Room
-
----
-
-### ⚡ Fun Facts
-- I know some American Sign Language 👋🏽
-- I am learning Japanese from Duolingo ⻚  
-- I enjoy late-night skies, forests, and road trips 🌌🌲  
-- I’m a big fan of good food, great stories, and chess ♟️  
-
----
-
-> “Building tools that empower people is what gets me up in the morning.”
+<sub>Off the keyboard: I know some American Sign Language, I'm learning Japanese, and I'm happiest on a road trip under a clear night sky or over a game of chess ♟️</sub>
